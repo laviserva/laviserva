@@ -8,7 +8,7 @@
 ## Working on:
 
 - Private project:
--
+  
 - IoT device + Data Analysis.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=laviserva&show_icons=true&theme=transparent)
