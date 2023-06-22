@@ -6,7 +6,8 @@
 - IoT
 
 ## Working on:
-
+- Kaggle Competition:
+  https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature/overview
 - Private project:
   IoT device + Data Analysis.
 
